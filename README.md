@@ -1,2 +1,3 @@
 # First-Lessons
-Beginner
+Beginner 
+This is my first git
